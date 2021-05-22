@@ -27,8 +27,8 @@ h1 {
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
+	color: rgb(111,127,122);
 }
-/* Write all remaining styles here */
 h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
